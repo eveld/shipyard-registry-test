@@ -1,10 +1,6 @@
 ---
 slug: shipyard-registry-test
 title: Shipyard registry test
-description: |
-This is a longer description...
-
-With new lines!
 labels:
   - first
   - second
@@ -17,4 +13,6 @@ env:
 ---
 
 # shipyard-registry-test
-Description
+This is a longer description...
+
+With new lines!
